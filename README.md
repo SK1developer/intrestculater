@@ -88,4 +88,4 @@ This project is open source and free to use.
 ## 👤 Author
 
 Developed by **Sonu Kumar**  
-📧 [raniwalsonu0530@gmail.com],   (mailto:raniwalsonu0530@gmail.com)
+📧 - (mailto:raniwalsonu0530@gmail.com)
